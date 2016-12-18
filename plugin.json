@@ -1,0 +1,28 @@
+[{
+  "author": "Viharm",
+  "version": "00.01.00",
+  "name": "OpenUngit",
+  "url": "https://github.com/viharm/Codiad-OpenUngit",
+  "rightbar": [
+    {
+      "action": "codiad.ob_OpenUngit.fn_LoadWs();",
+      "icon": "icon-flow-tree",
+      "title": "OpenUngit"
+    }
+  ],
+  "contextmenu": [
+    {
+      "action": "codiad.ob_OpenUngit.fn_LoadNode();",
+      "icon": "icon-flow-tree",
+      "applies-to": "directory-only",
+      "title": "OpenUngit"
+    }
+  ],
+  "config": [
+    {
+      "file": "dialog.php?sr_Instruction=Config",
+      "icon": "icon-flow-tree",
+      "title": "OpenUngit"
+    }
+  ]
+}]
