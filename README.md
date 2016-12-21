@@ -113,7 +113,7 @@ Copyright (c) Codiad & Kent Safranski (codiad.com)
 
 *Ungit* web-based *Git* client (https://github.com/FredrikNoren/ungit), used under the MIT license.
 
-Copyright (C) jEdit authors.
+Copyright Fredrik Norén
 
 
 ## GitHub
